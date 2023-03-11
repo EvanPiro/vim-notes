@@ -19,3 +19,5 @@
 | ctrl shift ]      | jump to definition (with ctags)   |
 | ctrl o            | jump back to last place           |
 | ctrl i            | jump forward again                |
+| w                 | jump to next word                 |
+| b                 | jump to previous                  |
