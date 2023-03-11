@@ -3,7 +3,7 @@
 | Command           | Decription                        |
 | ----------------- | -------------------------         |
 | shift V           | Select Whole Line                 |
-| <num> shift G     | Go to line <num>                  |
+| `<num>` shift G   | Go to line `<num>`                |
 | 0                 | Go to start of line               |
 | shift a           | insert at end of line             |
 | $                 | go to start of line               |
