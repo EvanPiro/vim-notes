@@ -1,6 +1,6 @@
 # `ctags`
 
-`ctags` enables vim to support a jump to definition.
+`ctags` enables vim to support jumping to a definition. This is invaluable to fast comprehension of complex processes.
 To enable it for usage from a relative path, set the following in vim config:
 ```
 set tags=./tags;
