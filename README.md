@@ -15,7 +15,7 @@
 | insert instert    | insert in place                   |
 | ctrl d            | jump to bottom of screen          |
 | ctrl u            | jump to top half of screen        |
-| :vs <filename>    | open file in new buffer           |
+| :vs `<filename>`  | open file in new buffer           |
 | ctrl shift ]      | jump to definition (with ctags)   |
 | ctrl o            | jump back to last place           |
 | ctrl i            | jump forward again                |
