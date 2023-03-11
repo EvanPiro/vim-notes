@@ -1,4 +1,4 @@
-# Useful Vim tricks
+# Useful commands
 
 | Command           | Decription                        |
 | ----------------- | -------------------------         |
